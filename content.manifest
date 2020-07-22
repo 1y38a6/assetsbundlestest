@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 678281018
+CRC: 2536344220
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 82afeeb6f837d6789882db460ec90ecf
+    Hash: e296eed328e6f106905c8df595875443
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5ee3cfffdac22685eb18e5991a9e30a
@@ -55,6 +55,12 @@ Assets:
 - Assets/Forest/Larch_branch.png
 - Assets/Forest/SP_map/Road3-3.png
 - Assets/Forest/SP_map/SplatAlpha 0.png
+- Assets/Sounds/snow_ambient.mp3
+- Assets/Sounds/ice_rain_ambient.mp3
+- Assets/Sounds/menu_theme.mp3
+- Assets/Sounds/break_wood.mp3
+- Assets/Sounds/place.wav
+- Assets/Sounds/forest_ambient.mp3
 - Assets/Forest/Jungle pack/rocks/jungle_rocks.tga
 - Assets/Forest/Jungle pack/rocks/Jungle cliff.tga
 - Assets/Forest/Cedar_branch_big.png
