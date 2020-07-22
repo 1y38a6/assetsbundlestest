@@ -1,16 +1,63 @@
 ManifestFileVersion: 0
-CRC: 4220246964
+CRC: 678281018
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0bbc202f039c5005ec0d31b9d5789022
+    Hash: 82afeeb6f837d6789882db460ec90ecf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: a5ee3cfffdac22685eb18e5991a9e30a
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5767df552f0f9b462f0f9b46a57464b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8627e586e6cf3f60c9a479a4b8c85865, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2356548a3cbf12649bc615c8dc8297a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98c5f0aec91298a4c81c8bddb69ef9d9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 121
+  Script: {instanceID: 0}
 Assets:
-- Assets/Sounds/ice_rain_ambient.mp3
+- Assets/Forest/forest.prefab
+- Assets/Forest/SP_map/jungle_mud.tga
+- Assets/Forest/Bark3-2.png
+- Assets/Forest/Fern_branch.png
+- Assets/Forest/Larch_branch.png
+- Assets/Forest/SP_map/Road3-3.png
+- Assets/Forest/SP_map/SplatAlpha 0.png
+- Assets/Forest/Jungle pack/rocks/jungle_rocks.tga
+- Assets/Forest/Jungle pack/rocks/Jungle cliff.tga
+- Assets/Forest/Cedar_branch_big.png
+- Assets/Forest/SP_map/Grass3-2.png
+- Assets/Forest/SP_map/jungle_grass.tga
 Dependencies: []
