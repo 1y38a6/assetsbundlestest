@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 678281018
+CRC: 2150247160
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0a4439f2132b6aadd022d05434da8f06
+    Hash: 5faed5cc2c3298dfe4a59ccbb8b9b8c6
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5ee3cfffdac22685eb18e5991a9e30a
@@ -55,6 +55,7 @@ Assets:
 - Assets/Forest/Larch_branch.png
 - Assets/Forest/SP_map/Road3-3.png
 - Assets/Forest/SP_map/SplatAlpha 0.png
+- Assets/Prefabs/Maps/forest.prefab
 - Assets/Forest/Jungle pack/rocks/jungle_rocks.tga
 - Assets/Forest/Jungle pack/rocks/Jungle cliff.tga
 - Assets/Forest/Cedar_branch_big.png
