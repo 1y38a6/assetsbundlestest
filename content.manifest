@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2684818171
+CRC: 3778676112
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7b003a576c744fa92c30ad6e5bab7b82
+    Hash: 013f4cb2512c935012eab137935dff1e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 28f4194dd044e44d9f9c2363208d4f91
+    Hash: 9b1f96faa025328b86fadc32f7a7d76b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,68 +25,16 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 64
-  Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
-- Class: 82
-  Script: {instanceID: 0}
-- Class: 83
-  Script: {instanceID: 0}
-- Class: 89
-  Script: {instanceID: 0}
-- Class: 108
-  Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5767df552f0f9b462f0f9b46a57464b2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8627e586e6cf3f60c9a479a4b8c85865, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: b2356548a3cbf12649bc615c8dc8297a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 98c5f0aec91298a4c81c8bddb69ef9d9, type: 3}
-- Class: 115
-  Script: {instanceID: 0}
-- Class: 121
-  Script: {instanceID: 0}
 Assets:
-- Assets/Materials/Blocks/cargo.jpg
-- Assets/Materials/Blocks/Box7.jpg
 - Assets/Forest/SP_map/jungle_mud.tga
-- Assets/Materials/Blocks/blackmesh.jpg
-- Assets/Forest/Bark3-2.png
 - Assets/Forest/Fern_branch.png
-- Assets/Materials/Blocks/Box8.jpg
-- Assets/Materials/Blocks/Box_Specular.jpg
-- Assets/Materials/Blocks/blackmesh_normal.png
 - Assets/Forest/Larch_branch.png
 - Assets/Forest/SP_map/Road3-3.png
 - Assets/Forest/SP_map/SplatAlpha 0.png
-- Assets/Forest/Meshes/Larch01.fbx
-- Assets/Materials/Blocks/Box4.jpg
-- Assets/Materials/Blocks/brass_normal.png
-- Assets/Prefabs/Maps/forest.prefab
-- Assets/Materials/Blocks/chrome.jpg
-- Assets/Skyboxes/Source/Skybox_v1.tga
-- Assets/Materials/Blocks/Box9.jpg
-- Assets/Models/sign-board-rect-angle3/textures/Material_1_metallic.jpg
-- Assets/Models/sign-board-rect-angle3/textures/Material_1_albedo.jpg
-- Assets/Materials/Blocks/silver_normal.png
-- Assets/Materials/Blocks/Box2.jpg
-- Assets/Materials/Blocks/iron_normal.png
-- Assets/Materials/Blocks/chrome_normal.png
 - Assets/Forest/Jungle pack/rocks/jungle_rocks.tga
 - Assets/Forest/Jungle pack/rocks/Jungle cliff.tga
-- Assets/Materials/Blocks/Box3.jpg
-- Assets/Materials/Blocks/silver.jpg
-- Assets/Materials/Blocks/iron.png
-- Assets/Materials/Blocks/Box1.jpg
 - Assets/Forest/Cedar_branch_big.png
-- Assets/Materials/Blocks/Box6.jpg
-- Assets/Materials/Blocks/brass.png
-- Assets/Materials/Blocks/cargo_normal.png
 - Assets/Forest/SP_map/Grass3-2.png
-- Assets/Materials/Blocks/Box5.jpg
 - Assets/Forest/SP_map/SP_map.obj
 - Assets/Forest/SP_map/jungle_grass.tga
 Dependencies: []
