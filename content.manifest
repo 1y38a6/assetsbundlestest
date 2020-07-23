@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4154394816
+CRC: 1151185341
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 172dd2faef329a6bea544c88f7cd1f4b
+    Hash: c8959d2e9f623a8065be5299fc4cdfea
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a5ee3cfffdac22685eb18e5991a9e30a
+    Hash: 28f4194dd044e44d9f9c2363208d4f91
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,6 +32,8 @@ ClassTypes:
 - Class: 82
   Script: {instanceID: 0}
 - Class: 83
+  Script: {instanceID: 0}
+- Class: 89
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
@@ -65,6 +67,7 @@ Assets:
 - Assets/Materials/Blocks/brass_normal.png
 - Assets/Prefabs/Maps/forest.prefab
 - Assets/Materials/Blocks/chrome.jpg
+- Assets/Skyboxes/Source/Skybox_v1.tga
 - Assets/Materials/Blocks/Box9.jpg
 - Assets/Materials/Blocks/silver_normal.png
 - Assets/Materials/Blocks/Box2.jpg
