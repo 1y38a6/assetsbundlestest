@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 35778311
+CRC: 4154394816
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b6722194e29f26c301b083623dad6fdb
+    Hash: 172dd2faef329a6bea544c88f7cd1f4b
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5ee3cfffdac22685eb18e5991a9e30a
@@ -48,18 +48,40 @@ ClassTypes:
 - Class: 121
   Script: {instanceID: 0}
 Assets:
+- Assets/Materials/Blocks/cargo.jpg
+- Assets/Materials/Blocks/Box7.jpg
 - Assets/Forest/SP_map/jungle_mud.tga
+- Assets/Materials/Blocks/blackmesh.jpg
 - Assets/Forest/Bark3-2.png
 - Assets/Forest/Fern_branch.png
+- Assets/Materials/Blocks/Box8.jpg
+- Assets/Materials/Blocks/Box_Specular.jpg
+- Assets/Materials/Blocks/blackmesh_normal.png
 - Assets/Forest/Larch_branch.png
 - Assets/Forest/SP_map/Road3-3.png
 - Assets/Forest/SP_map/SplatAlpha 0.png
 - Assets/Forest/Meshes/Larch01.fbx
+- Assets/Materials/Blocks/Box4.jpg
+- Assets/Materials/Blocks/brass_normal.png
 - Assets/Prefabs/Maps/forest.prefab
+- Assets/Materials/Blocks/chrome.jpg
+- Assets/Materials/Blocks/Box9.jpg
+- Assets/Materials/Blocks/silver_normal.png
+- Assets/Materials/Blocks/Box2.jpg
+- Assets/Materials/Blocks/iron_normal.png
+- Assets/Materials/Blocks/chrome_normal.png
 - Assets/Forest/Jungle pack/rocks/jungle_rocks.tga
 - Assets/Forest/Jungle pack/rocks/Jungle cliff.tga
+- Assets/Materials/Blocks/Box3.jpg
+- Assets/Materials/Blocks/silver.jpg
+- Assets/Materials/Blocks/iron.png
+- Assets/Materials/Blocks/Box1.jpg
 - Assets/Forest/Cedar_branch_big.png
+- Assets/Materials/Blocks/Box6.jpg
+- Assets/Materials/Blocks/brass.png
+- Assets/Materials/Blocks/cargo_normal.png
 - Assets/Forest/SP_map/Grass3-2.png
+- Assets/Materials/Blocks/Box5.jpg
 - Assets/Forest/SP_map/SP_map.obj
 - Assets/Forest/SP_map/jungle_grass.tga
 Dependencies: []
