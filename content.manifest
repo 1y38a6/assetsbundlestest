@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3802362260
+CRC: 909891867
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bd10295a9772a1041436caedb8fb4e7d
+    Hash: 46e8aa33ab66f7ea2f61f0d1cd92410d
   TypeTreeHash:
     serializedVersion: 2
     Hash: a5ee3cfffdac22685eb18e5991a9e30a
@@ -48,17 +48,14 @@ ClassTypes:
 - Class: 121
   Script: {instanceID: 0}
 Assets:
-- Assets/Forest/forest.prefab
 - Assets/Forest/SP_map/jungle_mud.tga
-- Assets/Forest/Bark3-2.png
-- Assets/Forest/Fern_branch.png
-- Assets/Forest/Larch_branch.png
 - Assets/Forest/SP_map/Road3-3.png
 - Assets/Forest/SP_map/SplatAlpha 0.png
+- Assets/Forest/Meshes/Larch01.fbx
 - Assets/Prefabs/Maps/forest.prefab
 - Assets/Forest/Jungle pack/rocks/jungle_rocks.tga
 - Assets/Forest/Jungle pack/rocks/Jungle cliff.tga
-- Assets/Forest/Cedar_branch_big.png
 - Assets/Forest/SP_map/Grass3-2.png
+- Assets/Forest/SP_map/SP_map.obj
 - Assets/Forest/SP_map/jungle_grass.tga
 Dependencies: []
