@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3778676112
+CRC: 2481670967
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 013f4cb2512c935012eab137935dff1e
+    Hash: c16bbb2b9fe3e0f23c20e6de7b85e598
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9b1f96faa025328b86fadc32f7a7d76b
@@ -27,6 +27,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Forest/SP_map/jungle_mud.tga
+- Assets/Forest/Bark3-2.png
 - Assets/Forest/Fern_branch.png
 - Assets/Forest/Larch_branch.png
 - Assets/Forest/SP_map/Road3-3.png
