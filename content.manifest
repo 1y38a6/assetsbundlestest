@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1151185341
+CRC: 2684818171
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c8959d2e9f623a8065be5299fc4cdfea
+    Hash: 7b003a576c744fa92c30ad6e5bab7b82
   TypeTreeHash:
     serializedVersion: 2
     Hash: 28f4194dd044e44d9f9c2363208d4f91
@@ -69,6 +69,8 @@ Assets:
 - Assets/Materials/Blocks/chrome.jpg
 - Assets/Skyboxes/Source/Skybox_v1.tga
 - Assets/Materials/Blocks/Box9.jpg
+- Assets/Models/sign-board-rect-angle3/textures/Material_1_metallic.jpg
+- Assets/Models/sign-board-rect-angle3/textures/Material_1_albedo.jpg
 - Assets/Materials/Blocks/silver_normal.png
 - Assets/Materials/Blocks/Box2.jpg
 - Assets/Materials/Blocks/iron_normal.png
